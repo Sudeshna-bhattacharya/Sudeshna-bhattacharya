@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudeshna-bhattacharya
 - 👀 I’m interested in security testing 
-- 🌱 I’m currently deep diving into  Cypress
+- 🌱 I’m currently deep diving into Playwright
 - 💞️ I’m looking to collaborate on Testing 
 - :heart: I love APIs and Postman
 - :ladybug: I participate in testing Hackathons
