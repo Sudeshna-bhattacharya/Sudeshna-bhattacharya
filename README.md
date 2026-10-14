@@ -68,13 +68,13 @@ I'm a **QA Technical Lead with 17 years of experience** building quality into Fi
 
 | Project | What it shows |
 |---|---|
-| [**api-testing-postman**](https://github.com/YOUR-USERNAME/api-testing-postman) | Postman collections with environments, chained requests, schema validation, negative tests, Newman runs in CI with HTML reports |
-| [**playwright-ts-framework**](https://github.com/YOUR-USERNAME/playwright-ts-framework) | Playwright + TypeScript framework: POM, fixtures, API + UI tests, parallel cross-browser runs, Allure reports |
-| [**cypress-e2e**](https://github.com/YOUR-USERNAME/cypress-e2e) | Cypress E2E with network intercepts, custom commands and component tests |
-| [**performance-testing-k6-jmeter**](https://github.com/YOUR-USERNAME/performance-testing-k6-jmeter) | Load, stress and spike scenarios with thresholds and Grafana dashboards |
-| [**accessibility-testing**](https://github.com/YOUR-USERNAME/accessibility-testing) | Automated WCAG checks with axe-core + Playwright, Lighthouse CI audits and a manual a11y checklist |
-| [**ai-assisted-testing**](https://github.com/YOUR-USERNAME/ai-assisted-testing) | Experiments using AI for test case generation, test data and failure triage |
-| [**qa-leadership-playbook**](https://github.com/YOUR-USERNAME/qa-leadership-playbook) | Test strategy, standards, PR checklists, onboarding and training plans: how I build and lead QA teams |
+| [**api-testing-postman**](https://github.com/sudeshna-bhattacharya/api-testing-postman) | Postman collections with environments, chained requests, schema validation, negative tests, Newman runs in CI with HTML reports |
+| [**playwright-ts-framework**](https://github.com/sudeshna-bhattacharya/playwright-ts-framework) | Playwright + TypeScript framework: POM, fixtures, API + UI tests, parallel cross-browser runs, Allure reports |
+| [**cypress-e2e**](https://github.com/sudeshna-bhattacharya/cypress-e2e) | Cypress E2E with network intercepts, custom commands and component tests |
+| [**performance-testing-k6-jmeter**](https://github.com/sudeshna-bhattacharya/performance-testing-k6-jmeter) | Load, stress and spike scenarios with thresholds and Grafana dashboards |
+| [**accessibility-testing**](https://github.com/sudeshna-bhattacharya/accessibility-testing) | Automated WCAG checks with axe-core + Playwright, Lighthouse CI audits and a manual a11y checklist |
+| [**ai-assisted-testing**](https://github.com/sudeshna-bhattacharya/ai-assisted-testing) | Experiments using AI for test case generation, test data and failure triage |
+| [**qa-leadership-playbook**](https://github.com/sudeshna-bhattacharya/qa-leadership-playbook) | Test strategy, standards, PR checklists, onboarding and training plans: how I build and lead QA teams |
 
 ---
 
@@ -82,10 +82,10 @@ I'm a **QA Technical Lead with 17 years of experience** building quality into Fi
 
 > _Replace the **X** values with your real numbers. Specific metrics stand out to recruiters._
 
-- ⏱️ Cut regression cycles from **X days → Y hours** with automation and parallel CI runs
-- 🔌 Built API automation covering **X+ endpoints**, catching defects before UI testing started
-- 📉 Reduced production defect leakage by **X%** through shift-left and API-first testing
-- 👥 Led, hired and trained QA teams of **X engineers**, upskilling manual testers into automation
+- ⏱️ Cut regression cycles from **10 days → 2 hours** with automation and parallel CI runs
+- 🔌 “Achieved 100% API endpoint coverage across 10+ SaaS products (500+ endpoints), catching defects before UI testing started”
+- 📉 Reduced production defect leakage by **2%** through shift-left and API-first testing
+- 👥 Led, hired and trained QA teams of **20 engineers**, upskilling manual testers into automation
 - 🔁 Integrated automated suites into CI/CD pipelines with quality gates on every release
 
 ---
@@ -93,8 +93,8 @@ I'm a **QA Technical Lead with 17 years of experience** building quality into Fi
 ### 📊 GitHub stats
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sudeshna-bhattacharya&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshna-bhattacharya&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
