@@ -80,7 +80,7 @@ I'm a **QA Technical Lead with 17 years of experience** building quality into Fi
 
 ### 📈 Impact highlights
 
-> _Replace the **X** values with your real numbers. Specific metrics stand out to recruiters._
+
 
 - ⏱️ “Cut regression cycles from ~2 weeks of manual testing to a few hours with automation and parallel CI runs”
 - 🔌 “Achieved 100% API endpoint coverage across 10+ SaaS products (500+ endpoints), catching defects before UI testing started”
