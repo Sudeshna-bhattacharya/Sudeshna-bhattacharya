@@ -68,8 +68,8 @@ I'm a **QA Technical Lead with 17 years of experience** building quality into Fi
 
 | Project | What it shows |
 |---|---|
-| [**api-testing-postman**](https://github.com/sudeshna-bhattacharya/api-testing-postman) | Postman collections with environments, chained requests, schema validation, negative tests, Newman runs in CI with HTML reports |
-| [**playwright-ts-framework**](https://github.com/sudeshna-bhattacharya/playwright-ts-framework) | Playwright + TypeScript framework: POM, fixtures, API + UI tests, parallel cross-browser runs, Allure reports |
+| [**api-testing-postman**](https://github.com/sudeshna-bhattacharya/postman-api-testing/) | Postman collections with environments, chained requests, schema validation, negative tests, Newman runs in CI with HTML reports |
+| [**playwright-ts-framework**](https://github.com/sudeshna-bhattacharya/playwright-ts-framework) | Playwright + TypeScript framework: fixtures, API + UI tests, parallel cross-browser runs, Allure reports |
 | [**cypress-e2e**](https://github.com/sudeshna-bhattacharya/cypress-e2e) | Cypress E2E with network intercepts, custom commands and component tests |
 | [**performance-testing-k6-jmeter**](https://github.com/sudeshna-bhattacharya/performance-testing-k6-jmeter) | Load, stress and spike scenarios with thresholds and Grafana dashboards |
 | [**accessibility-testing**](https://github.com/sudeshna-bhattacharya/accessibility-testing) | Automated WCAG checks with axe-core + Playwright, Lighthouse CI audits and a manual a11y checklist |
